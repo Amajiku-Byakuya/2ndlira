@@ -1,2 +1,2 @@
 # 2ndlira
-PG2ndlira(都合の良い女)
+PG2ndlira(都合の良い女)りら
