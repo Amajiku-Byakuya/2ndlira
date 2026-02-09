@@ -10,7 +10,7 @@ const MAX_RENDER = 150;
 
 const NORMAL_IMAGES = [
   "image/rira_fuyufuku.png",
-  "image/rira_meido.pngg",
+  "image/rira_meido.png",
   "image/rira_natufuku.png",
   "image/rira_pajama.png",
   "image/rira_yukata.png"
